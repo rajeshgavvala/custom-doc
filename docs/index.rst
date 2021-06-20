@@ -1,4 +1,4 @@
-DKAN Open Data Portal
+Custom Java Docs
 =====================
 
 This is the central site for technical/developer documentation of DKAN. DKAN is a Drupal-based open data portal and catalog. Development sponsored by `CivicActions <https://civicactions.com/dkan/>`_ .
@@ -6,13 +6,6 @@ This is the central site for technical/developer documentation of DKAN. DKAN is 
 .. toctree::
    :maxdepth: 1
 
-   introduction/index
-   installation/index
-   components/index
-   community/index
-   admin/index
-   development/index
-   apis/index
    license
 
 Additional resources
