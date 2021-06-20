@@ -19,7 +19,7 @@ templates_path = ['_templates']
 master_doc = 'index'
 
 # General information about the project.
-project = u'DKAN Docs'
+project = u'Custom Docs'
 copyright = u'2019'
 author = u'DKAN Team'
 
@@ -212,7 +212,7 @@ source_parsers = {
     '.md': CommonMarkParser,
 }
 
-github_doc_root = 'https://github.com/GetDKAN/dkan/tree/rtd/docs/'
+github_doc_root = 'https://github.com/rajeshgavvala/custom-doc/tree/main/docs/'
 def setup(app):
     app.add_stylesheet( "css/custom.css" )
     app.add_config_value('recommonmark_config', {
