@@ -118,7 +118,7 @@ html_show_sphinx = True
 html_search_language = 'en'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'JAVAdoc'
+htmlhelp_basename = 'DKANdoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -170,7 +170,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'custom', u'JAVA Documentation',
+    (master_doc, 'dkan', u'DKAN Documentation',
      [author], 1)
 ]
 
@@ -184,8 +184,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'CUSTOM', u'JAVA Documentation',
-   author, 'CUSTOM', 'open standarts.',
+  (master_doc, 'DKAN', u'DKAN Documentation',
+   author, 'DKAN', 'Open data portal build on Drupal CMS.',
    'Miscellaneous'),
 ]
 
