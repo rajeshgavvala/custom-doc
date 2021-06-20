@@ -20,8 +20,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Custom Docs'
-copyright = u'2019'
-author = u'DKAN Team'
+copyright = u'2021'
+author = u'CUSTOM Team'
 
 
 version = '1.17'
@@ -220,4 +220,4 @@ def setup(app):
             'auto_toc_tree_section': 'Contents',
             'enable_eval_rst': True,
             }, True)
-    app.add_transform(AutoStructify)
+    app.add_transform()
