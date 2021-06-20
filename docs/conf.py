@@ -115,7 +115,7 @@ html_show_sphinx = True
 # Sphinx supports the following languages:
 #   'da', 'de', 'en', 'es', 'fi', 'fr', 'hu', 'it', 'ja'
 #   'nl', 'no', 'pt', 'ro', 'ru', 'sv', 'tr'
-html_search_language = 'en', 'de'
+html_search_language = 'en'
 
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'JAVAdoc'
