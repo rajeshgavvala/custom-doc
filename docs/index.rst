@@ -6,6 +6,13 @@ This is the central site for technical/developer documentation of DKAN. DKAN is 
 .. toctree::
    :maxdepth: 1
 
+   introduction/index
+   installation/index
+   components/index
+   community/index
+   admin/index
+   development/index
+   apis/index
    license
 
 Additional resources
