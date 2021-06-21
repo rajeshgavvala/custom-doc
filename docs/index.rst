@@ -4,7 +4,7 @@ MyProject
 Explore Java Docs Here
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
 
     introduction
     installation/index
