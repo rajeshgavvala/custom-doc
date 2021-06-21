@@ -4,10 +4,10 @@ MyProject
 Contents:
 
 .. toctree::
-   :maxdepth: 2
-   :glob:
+   :maxdepth: 1
 
-   *
+   installation/index
+   license
 
 Additional resources
 --------------------
