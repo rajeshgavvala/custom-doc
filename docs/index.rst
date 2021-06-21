@@ -1,14 +1,20 @@
 MyProject
 =====================
 
-Explore Java Docs Here
+Contents:
 
 .. toctree::
-    :maxdepth: 2
+   :maxdepth: 2
+   :glob:
 
-    introduction
-    installation/index
-    license
+   *
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
 
 
 Additional resources
