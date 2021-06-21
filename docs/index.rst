@@ -18,4 +18,4 @@ Explore Java Docs Here
 Additional resources
 --------------------
 
-- `MyProject Home <http://google.com>`_: Central portal for the MyProject.
+- `MyProject Home <http://google.com>`_: Central portal for MyProject.
