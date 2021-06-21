@@ -8,7 +8,10 @@ Contents:
 
    overview
    installation/index
+   technicalGuide/index
+   userGuide/index
    license
+   contact
 
 Additional resources
 --------------------
