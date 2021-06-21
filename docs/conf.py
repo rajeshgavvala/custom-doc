@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Custom Java Docs Template'
+project = u'My Project'
 copyright = u'2021, Read the Docs'
 
 # The version info for the project you're documenting, acts as replacement for
