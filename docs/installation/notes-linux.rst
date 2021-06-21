@@ -1,4 +1,4 @@
-Installation Notes For Mac OS
+Installation Notes For Linux OS
 =============================
 
 .. note:: This page essentially describes installation notes for the users of linux os.

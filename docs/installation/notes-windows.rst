@@ -1,4 +1,4 @@
-Installation Notes For Mac OS
+Installation Notes For Windows OS
 =============================
 
 .. note:: This page essentially describes installation notes for the users of windows os.
