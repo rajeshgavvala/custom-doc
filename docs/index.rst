@@ -4,10 +4,12 @@ MyProject
 Explore Java Docs Here
 
 .. toctree::
-    :maxdepth: 2
-    :glob:
+    :maxdepth: 1
 
-    *
+    introduction
+    installation/index
+    license
+
 
 Additional resources
 --------------------
