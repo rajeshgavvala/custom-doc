@@ -18,4 +18,4 @@ Role Management
 .. toctree::
    :maxdepth: 1
 
-   onboard-myproject
+   onboard-myproject/index
