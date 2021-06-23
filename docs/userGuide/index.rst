@@ -2,10 +2,20 @@
 User Guide
 ==================
 
-* TBD
+.. warning::
+  **Explore User Guide on the flowing areas; !**
+
+On Boarding
+   *TBD
+
+User Management
+   *TBD
+
+Role Management
+   *TBD
+
 
 .. toctree::
    :maxdepth: 1
 
-   user-registration-demo
-   user-login
+   onboard-myproject
