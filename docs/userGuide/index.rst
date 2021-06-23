@@ -6,3 +6,6 @@ User Guide
 
 .. toctree::
    :maxdepth: 1
+
+   user-registration-demo
+   user-login
