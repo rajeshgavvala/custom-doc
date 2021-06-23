@@ -14,6 +14,8 @@
 
 import sys
 import os
+import sphinx_bootstrap_theme
+
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -245,7 +247,11 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
-html_static_path = ['_static']
+from links.link import *
+from links import *
+
+def setup(app):
+    app.add_stylesheet("custom.css")
 
 # Documents to append as an appendix to all manuals.
 #texinfo_appendices = []

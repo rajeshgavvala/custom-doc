@@ -7,8 +7,10 @@ Role Table
 Roles
 ------
 
-.. image:: https://github.com/rajeshgavvala/custom-doc/tree/main/role-table.png
-   :alt: Role Table, attached referenced from gitHub.
-   :width: 400px
-   :height: 400px
+For example this image:
+
+.. image:: images/role-table.png
+    :width: 600
+    :alt: Role Table, attached referenced from gitHub.
+
 
