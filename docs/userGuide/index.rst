@@ -20,3 +20,4 @@ Role Management
 
    onboard-myproject/index
    user-management/index
+   role-management/index

@@ -7,6 +7,8 @@ The Admin Menu on your site is the main tool for navigating data and content man
 .. figure:: https://dkan-documentation-files.s3.us-east-2.amazonaws.com/dkan1/site_manager_playbook/admin_menu/admin_menu_01.png
    :alt: Image displaying the admin menu, located at the top of the screen.
 
+.. warning::
+
 When you're logged onto the site, you'll see a black navigation bar at the top of the page. This is the Admin Menu. As a Site Manager, this menu looks different for you than other roles on the site. Editors and Content Creators have fewer options because they have fewer permissions on the site.
 
 Use the Admin Menu as your anchor on your DKAN site. Everything you can do on the site is accessed through the Admin Menu.
