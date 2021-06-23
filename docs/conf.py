@@ -14,7 +14,6 @@
 
 import sys
 import os
-import sphinx_bootstrap_theme
 
 
 # If extensions (or modules to document with autodoc) are in another directory,
@@ -247,8 +246,6 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
-from links.link import *
-from links import *
 
 def setup(app):
     app.add_stylesheet("custom.css")
