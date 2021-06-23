@@ -1,0 +1,17 @@
+<pretty-config
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://ocpsoft.org/schema/rewrite-config-prettyfaces"
+	xsi:schemaLocation="http://ocpsoft.org/schema/rewrite-config-prettyfaces
+                      http://ocpsoft.org/xml/ns/prettyfaces/rewrite-config-prettyfaces.xsd">
+
+
+	<url-mapping id="users">
+		<pattern value="/module/users" />
+		<view-id value="/module/users/users.oaf" />
+	</url-mapping>
+	<url-mapping id="user">
+		<pattern value="/module/users/user" />
+		<view-id value="/module/users/user.oaf" />
+	</url-mapping>
+
+</pretty-config>
