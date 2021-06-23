@@ -11,3 +11,4 @@ Technical Documentation
    java-api
    rest-api
    developer-documentation/index
+   rest-api/index
