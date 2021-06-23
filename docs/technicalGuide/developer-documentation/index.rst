@@ -7,4 +7,4 @@ Developer Documentation
 .. toctree::
    :maxdepth: 1
 
-   technical-notes
+   developer-notes
