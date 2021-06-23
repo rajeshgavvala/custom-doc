@@ -7,6 +7,6 @@ Role Table
 Roles
 ------
 
-.. figure:: https://github.com/rajeshgavvala/custom-doc/blob/main/docs/role-table.png
+.. figure:: https://github.com/rajeshgavvala/custom-doc/role-table.png
    :alt: Role Table, attached referenced from gitHub.
 
