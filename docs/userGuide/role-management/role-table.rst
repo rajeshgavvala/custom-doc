@@ -9,7 +9,7 @@ Roles
 
 For example this image:
 
-.. image:: images/role-table.png
+.. image:: _static/images/role-management/role-table.png
     :width: 600
     :alt: Role Table, attached referenced from gitHub.
 
