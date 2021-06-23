@@ -1,20 +1,20 @@
 ================
-USER CRUD OPERATIONS
+Role CRUD OPERATIONS
 ================
 
 +TBD
 
-User - Create
+Role - Create
 ----------------
 
 * TBD
 
-User - Update
+Role - Update
 ----------------
 
 * TBD
 
-User - Delete
+Role - Delete
 ----------------
 
 * TBD
