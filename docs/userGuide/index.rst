@@ -19,3 +19,4 @@ Role Management
    :maxdepth: 1
 
    onboard-myproject/index
+   user-management/index
